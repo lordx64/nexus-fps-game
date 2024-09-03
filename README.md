@@ -1,6 +1,6 @@
 # Nexus FPS Game
 
-This project demonstrates a simple FPS game implemented using the Nexus ZK-VM. It showcases how game logic can be executed and verified in a zero-knowledge environment.
+This project demonstrates a simple FPS game implemented using the Nexus zk-VM (https://nexus.xyz/). It showcases how game logic can be executed and verified in a zero-knowledge environment.
 
 ## Project Structure
 
