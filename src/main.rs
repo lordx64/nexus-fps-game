@@ -22,7 +22,7 @@ fn main() {
     // Simulate a game turn: move right 2 steps, up 1 step, and shoot
     let input: Input = (2, 1, true);
 
-    print!("Proving execution of Doom-like game...");
+    print!("Proving execution of the nexfus-fps game...");
     let proof = prover
         .prove_with_input::<Input>(&pp, &input)
         .expect("failed to prove program");
