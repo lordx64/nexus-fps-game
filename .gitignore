@@ -1,0 +1,19 @@
+# Rust build artifacts
+/target
+**/*.rs.bk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Nexus specific files (if any)
+# Add any Nexus-specific files or directories that should be ignored
+
+# Cargo.lock file (uncomment if you want to ignore it)
+# Cargo.lock
